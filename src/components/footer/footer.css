@@ -122,6 +122,16 @@ ul {
   border: 1px solid #2E2E2E;
   color: #fff;
 }
+
+.subscribe-form textarea {
+    width: 100%;
+    padding: 14px 28px;
+    margin-top: 5px;
+    background: #2E2E2E;
+    border: 1px solid #2E2E2E;
+    color: #fff;
+  }
+  
 .subscribe-form button {
     position: absolute;
     right: 0;

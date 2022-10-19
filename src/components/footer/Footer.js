@@ -86,6 +86,8 @@ function Footer() {
                             <div class="subscribe-form">
                                 <form action="#">
                                     <input type="text" placeholder="Email Address"/>
+                                <textarea  type="text" placeholder="Message Here"></textarea>
+                                    
                                     <button><i class="fab fa-telegram-plane"></i></button>
                                 </form>
                             </div>
