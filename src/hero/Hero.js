@@ -15,8 +15,10 @@ xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500" 
 <path fill="#FFFFFF" stroke="#000000" stroke-width="10" stroke-miterlimit="10" d="M57,283" />
 
 </svg>
-<h1>text!!!!</h1>
 </div>
+
+<h1 className='caption'>Welcome!!!!</h1>
+<h3 className='subCaption'>Just for Cricket</h3>
 
 <div>
 <svg className="waves" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink"

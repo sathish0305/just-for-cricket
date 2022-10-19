@@ -1,6 +1,6 @@
 import React from 'react'
 import './navigation.css'
-import image from '../../images/hamburger.png'
+import './border.js'
 
 function Navigation() {
   return (
@@ -31,10 +31,10 @@ function Navigation() {
               <a className="nav-link text-white" href="/">About</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link text-white" href="/">Blog</a>
+              <a className="nav-link text-white" href="/">Services</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link text-white" href="/">Pricing</a>
+              <a className="nav-link text-white" href="/">Shop</a>
             </li>
             <li className="nav-item">
               <a className="nav-link text-white" href="/">Contact</a>
