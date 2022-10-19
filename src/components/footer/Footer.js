@@ -50,9 +50,9 @@ function Footer() {
                             </div>
                             <div class="footer-social-icon">
                                 <span>Follow us</span>
-                                <a href="#"><i class="fab fa-facebook-f facebook-bg"></i></a>
-                                <a href="#"><i class="fab fa-twitter twitter-bg"></i></a>
-                                <a href="#"><i class="fab fa-google-plus-g google-bg"></i></a>
+                                <a href="/"><i class="fab fa-facebook-f facebook-bg"></i></a>
+                                <a href="/"><i class="fab fa-twitter twitter-bg"></i></a>
+                                <a href="/"><i class="fab fa-google-plus-g google-bg"></i></a>
                             </div>
                         </div>
                     </div>
@@ -62,16 +62,16 @@ function Footer() {
                                 <h3>Useful Links</h3>
                             </div>
                             <ul>
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">about</a></li>
-                                <li><a href="#">services</a></li>
-                                <li><a href="#">portfolio</a></li>
-                                <li><a href="#">Contact</a></li>
-                                <li><a href="#">About us</a></li>
-                                <li><a href="#">Our Services</a></li>
-                                <li><a href="#">Expert Team</a></li>
-                                <li><a href="#">Contact us</a></li>
-                                <li><a href="#">Latest News</a></li>
+                                <li><a href="/">Home</a></li>
+                                <li><a href="/">about</a></li>
+                                <li><a href="/">services</a></li>
+                                <li><a href="/">portfolio</a></li>
+                                <li><a href="/">Contact</a></li>
+                                <li><a href="/">About us</a></li>
+                                <li><a href="/">Our Services</a></li>
+                                <li><a href="/">Expert Team</a></li>
+                                <li><a href="/">Contact us</a></li>
+                                <li><a href="/">Latest News</a></li>
                             </ul>
                         </div>
                     </div>
@@ -84,7 +84,7 @@ function Footer() {
                                 <p>Don’t miss to subscribe to our new feeds, kindly fill the form below.</p>
                             </div>
                             <div class="subscribe-form">
-                                <form action="#">
+                                <form action="/">
                                     <input type="text" placeholder="Email Address"/>
                                 <textarea  type="text" placeholder="Message Here"></textarea>
                                     
@@ -101,17 +101,17 @@ function Footer() {
                 <div class="row">
                     <div class="col-xl-6 col-lg-6 text-center text-lg-left">
                         <div class="copyright-text">
-                            <p>Copyright &copy; 2022, All Right Reserved Powered By <a href=''>RareBreed Club</a></p>
+                            <p>Copyright &copy; 2022, All Right Reserved Powered By <a href='/'>RareBreed Club</a></p>
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6 d-none d-lg-block text-right">
                         <div class="footer-menu">
                             <ul>
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">Terms</a></li>
-                                <li><a href="#">Privacy</a></li>
-                                <li><a href="#">Policy</a></li>
-                                <li><a href="#">Contact</a></li>
+                                <li><a href="/">Home</a></li>
+                                <li><a href="/">Terms</a></li>
+                                <li><a href="/">Privacy</a></li>
+                                <li><a href="/">Policy</a></li>
+                                <li><a href="/">Contact</a></li>
                             </ul>
                         </div>
                     </div>
