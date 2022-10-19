@@ -1,6 +1,6 @@
 import React from 'react'
 import './navigation.css'
-
+import image from '../../images/hamburger.png'
 
 function Navigation() {
   return (
@@ -9,7 +9,7 @@ function Navigation() {
       <div className="container">
         <a className="navbar-brand brand" href="/">Just for Cricket</a>
         <button
-          className="navbar-toggle"
+          className="navbar-toggler"
           type="button"
           data-bs-toggle="collapse"
           data-bs-target="#navbarNav"
@@ -17,7 +17,7 @@ function Navigation() {
           aria-expanded="false"
           aria-label="Toggle navigation"
         >
-          <span className="navbar-toggle-icon"></span>
+          <span className="navbar-toggler-icon"></span>
         </button>
 
 
