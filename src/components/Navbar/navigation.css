@@ -5,3 +5,7 @@
  font-weight: 500;
  font-size: 2em;
 }
+
+.nav{
+    transition: background-color .2s ease-in-out;
+  }
